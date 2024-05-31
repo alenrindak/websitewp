@@ -612,7 +612,7 @@ body {
  /*Image*/
  .card-avatar {
   --size: 100px;
-  background-image: url(1.jpeg);
+  background-image: url(2.jpg);
   width: var(--size);
   height: var(--size);
   border-radius: 50%;

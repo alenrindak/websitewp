@@ -226,7 +226,7 @@ body {
    }
    
    /*Image*/
-   .card-avatar {
+   .card-avatar1 {
     --size: 60px;
     background-image: url(logo.png);
     width: 100px;
@@ -235,7 +235,78 @@ body {
     transition: transform .2s ease;
     margin-bottom: 1rem;
    }
-   
+   .card-avatar2 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar3 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar4 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar5 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar6 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar7 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar8 {
+    --size: 60px;
+    background-image: url(logo.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
+   .card-avatar9 {
+    --size: 60px;
+    background-image: url(shirlene/1.png);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transition: transform .2s ease;
+    margin-bottom: 1rem;
+   }
    
    /*Card footer*/
    .card-social {
